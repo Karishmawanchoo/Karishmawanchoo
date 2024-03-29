@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Karishmawanchoo. I am a computer science student.
-- 👀 I’m interested in ... exploring new things.
-- 🌱 I’m currently learning ... C, C++, and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... exploring new things and polishing my skills.
+- 🌱 I’m currently learning ... HTML, CSS ,and SQL.
 - 📫 How to reach me ... 2022a1r082@mietjammu.in
 
 <!---
